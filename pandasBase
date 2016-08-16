@@ -1,0 +1,6 @@
+1、pandans数据结构：
+    1）、Series：一组数据结构加上标签（可以手动通过values及index更改）
+        1}、可以直接通过dict来建立Series
+        2}、通过isnull或者notnull来判断缺失数据
+    2）、DataFrame: 表格型的数据结构
+        1}、
